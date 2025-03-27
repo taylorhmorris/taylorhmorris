@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - **[@taylorhmorris/observer](https://npmjs.com/package/@taylorhmorris/observer)** - A simple implementation of the Observer design pattern in TypeScript [[code](https://github.com/taylorhmorris/observer)]
 
 #### PyPI (pip)
-- \*COMING SOON\* **[pyquaca](https://github.com/taylorhmorris/pyquaca)** - A simple lightweight interface to query APIs and web resource, parse the responses with custom parsers, and cache the result. [[code](https://github.com/taylorhmorris/pyquaca)]
+- **[pyquaca](https://pypi.org/project/pyquaca/)** - A simple lightweight interface to query APIs and web resource, parse the responses with custom parsers, and cache the result. [[code](https://github.com/taylorhmorris/pyquaca)]
 
 ## 📊 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
