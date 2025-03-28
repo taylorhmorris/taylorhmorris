@@ -13,16 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Taylor H. Morris 👋
-
-🚀 **Software Engineer & Web Developer**  
+## 🚀 **Software Engineer & Web Developer**  
 🔹 Experienced in **JavaScript/TypeScript, Vue, Python, Django, SQL, Rust, C/C++, CI/CD, Automated Testing, Git**  
 🔹 Passionate about **frontend & backend development, project management, and building scalable apps**  
 
 ## 🌟 Projects
 ### Current Projects
 
-- **[📚 Story Time](https://github.com/taylorhmorris/story-time)** – A Django web app that helps users read stories in foreign languages and memorize vocabulary.
+- **[📚 Story Time](https://github.com/taylorhmorris/story-time)** – A Django web app that helps users read stories in foreign languages and memorize vocabulary
 
 ### Released Packages
 
