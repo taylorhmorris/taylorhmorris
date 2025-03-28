@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Taylor H. Morris 👋
+## Hi there, I'm Taylor H. Morris 👋
 
 🚀 **Software Engineer & Web Developer**  
-🔹 Experienced in **JavaScript/TypeScript, Python, Django, React, Vue, SQL, CI/CD, Automated Testing, Git**  
+🔹 Experienced in **JavaScript/TypeScript, Vue, Python, Django, SQL, Rust, C/C++, CI/CD, Automated Testing, Git**  
 🔹 Passionate about **frontend & backend development, project management, and building scalable apps**  
 
 ## 🌟 Projects
