@@ -18,18 +18,29 @@ Here are some ideas to get you started:
 🔹 Passionate about **frontend & backend development, project management, and building scalable apps**  
 
 ## 🌟 Projects
-### Current Projects
+
+### Apps
 
 - **[📚 Story Time](https://github.com/taylorhmorris/story-time)** – A Django web app that helps users read stories in foreign languages and memorize vocabulary
+- 📘 ReadingLog - Web app helping users track their books and reading history
+- 📗 SimpleDictionary - PWA Dictionary that lets users look up words and insert them directly into Evernote (available on the web and for PC, Android, iOS)
+- [💻 TypingTutor](https://github.com/taylorhmorris/typing-tutor) - Desktop app written in Rust where users practice their typing with customizable lessons
+- [👄 Pronunciation Trainer](https://github.com/taylorhmorris/pronunciation-trainer) - Desktop application written in Python to test user pronunciation in French & English
+- [💾 BackupManager](https://github.com/taylorhmorris/backup-app) - Desktop application that compares two directories to backup modified files
 
 ### Released Packages
 
 #### NPM
-- **[@taylorhmorris/geometry](https://npmjs.com/package/@taylorhmorris/geometry)** - A TypeScript library with simple shapes for use in games and graphing apps [[code](https://github.com/taylorhmorris/geometry)]
-- **[@taylorhmorris/observer](https://npmjs.com/package/@taylorhmorris/observer)** - A simple implementation of the Observer design pattern in TypeScript [[code](https://github.com/taylorhmorris/observer)]
+- **[📐 @taylorhmorris/geometry](https://npmjs.com/package/@taylorhmorris/geometry)** - A TypeScript library with simple shapes for use in games and graphing apps [[code](https://github.com/taylorhmorris/geometry)]
+- **[👀 @taylorhmorris/observer](https://npmjs.com/package/@taylorhmorris/observer)** - A simple implementation of the Observer design pattern in TypeScript [[code](https://github.com/taylorhmorris/observer)]
 
 #### PyPI (pip)
-- **[pyquaca](https://pypi.org/project/pyquaca/)** - A simple lightweight interface to query APIs and web resource, parse the responses with custom parsers, and cache the result. [[code](https://github.com/taylorhmorris/pyquaca)]
+- **[❓ pyquaca](https://pypi.org/project/pyquaca/)** - A simple lightweight interface to query APIs and web resource, parse the responses with custom parsers, and cache the result. [[code](https://github.com/taylorhmorris/pyquaca)]
+
+### Games
+
+- [🐵 King Pong](https://github.com/taylorhmorris/ft_transcendence) - Web app letting users play competitive games of Pong against other users
+- [🐌 cub3D](https://github.com/taylorhmorris/cub3D) - A 3D maze game with simple sprites, built using a custom raycasting engine
 
 ## 📊 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
