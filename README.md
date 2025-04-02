@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Apps
 
-- **[📚 Story Time](https://github.com/taylorhmorris/story-time)** – A Django web app that helps users read stories in foreign languages and memorize vocabulary
+- **[📚 L'heure du conte](https://github.com/taylorhmorris/story-time)** – A Django web app that helps users read stories in foreign languages and memorize vocabulary
 - 📘 ReadingLog - Web app helping users track their books and reading history
 - 📗 SimpleDictionary - PWA Dictionary that lets users look up words and insert them directly into Evernote (available on the web and for PC, Android, iOS)
 - [💻 TypingTutor](https://github.com/taylorhmorris/typing-tutor) - Desktop app written in Rust where users practice their typing with customizable lessons
